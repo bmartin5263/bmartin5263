@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bmartin5263
-- 👀 I’m interested in Real-time Systems
-- 🌱 I’m currently learning Cross-platform C++ Development
+- 👀 I’m interested in Real-time & Embedded Systems
+- 🌱 I’m currently learning Arduino Development
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me bsm2112@yahoo.com
 
